@@ -1,8 +1,9 @@
 
 div{
-	height: 100px;
-	width: 400px;
+	height: 25%;
+	width: 35%px;
 	font-size: 40px;
+	margin-bottom: 2%;
 }
 .amarillo{
 	background-color: yellow;
@@ -13,11 +14,11 @@ div{
 
 
 .pdl5{
-	padding-left: 5px;
+	padding-left: 2%;
 }
 
 .pdt5{
-	padding-top: 5px;
+	padding-top: 5%;
 }
 .may{
 	text-transform: uppercase;
