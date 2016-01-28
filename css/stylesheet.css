@@ -2,8 +2,9 @@
 div{
 	height: 25%;
 	width: 35%px;
-	font-size: 40px;
+	font-size: 15px;
 	margin-bottom: 2%;
+	display: inline-block;
 }
 .amarillo{
 	background-color: yellow;
@@ -22,4 +23,8 @@ div{
 }
 .may{
 	text-transform: uppercase;
+}
+
+.exep{
+	margin-bottom: 0%
 }
